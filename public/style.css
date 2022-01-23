@@ -1,0 +1,14 @@
+.form-wrapper{
+    padding: 20px;
+    background-color: #EDEDED;
+
+}
+
+.form__group{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    padding-bottom: 10px;
+}
