@@ -1,6 +1,11 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+<div>
+<img src='./hows/hows.gif'>
+</div>
+
 
 ## COMO RODAR O PROJETO
 - clone o respositorio 
@@ -14,6 +19,5 @@ git clone https://github.com/ellsonmendesyt/cowala-react.git
  yarn start
 </pre>
 
-### `npm start`
 
 
